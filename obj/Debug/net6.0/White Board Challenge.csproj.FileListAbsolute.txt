@@ -13,3 +13,18 @@ C:\Users\rdsmi\source\repos\White Board Challenge\obj\Debug\net6.0\refint\White 
 C:\Users\rdsmi\source\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.pdb
 C:\Users\rdsmi\source\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.genruntimeconfig.cache
 C:\Users\rdsmi\source\repos\White Board Challenge\obj\Debug\net6.0\ref\White Board Challenge.dll
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.csproj.AssemblyReference.cache
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.AssemblyInfoInputs.cache
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.AssemblyInfo.cs
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.csproj.CoreCompileInputs.cache
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.dll
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\refint\White Board Challenge.dll
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.pdb
+D:\Coding School\repos\White Board Challenge\bin\Debug\net6.0\White Board Challenge.exe
+D:\Coding School\repos\White Board Challenge\bin\Debug\net6.0\White Board Challenge.deps.json
+D:\Coding School\repos\White Board Challenge\bin\Debug\net6.0\White Board Challenge.runtimeconfig.json
+D:\Coding School\repos\White Board Challenge\bin\Debug\net6.0\White Board Challenge.dll
+D:\Coding School\repos\White Board Challenge\bin\Debug\net6.0\White Board Challenge.pdb
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\White Board Challenge.genruntimeconfig.cache
+D:\Coding School\repos\White Board Challenge\obj\Debug\net6.0\ref\White Board Challenge.dll
