@@ -15,7 +15,7 @@ namespace ArrayTest
             Console.WriteLine(FizzBuzz(17));
         }
 
-        public static string FizzBuzz(int x)
+        public string FizzBuzz(int x)
         {
             if (x % 3 == 0 && x % 5 == 0)
             {
@@ -33,6 +33,7 @@ namespace ArrayTest
             {
                 return "Not divisible by 3 or 5";
             }
+            
         }
     }
 }

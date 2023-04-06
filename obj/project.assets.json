@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rdsmi\\source\\repos\\White Board Challenge\\White Board Challenge.csproj",
+      "projectUniqueName": "D:\\Coding School\\repos\\White Board Challenge\\White Board Challenge.csproj",
       "projectName": "White Board Challenge",
-      "projectPath": "C:\\Users\\rdsmi\\source\\repos\\White Board Challenge\\White Board Challenge.csproj",
+      "projectPath": "D:\\Coding School\\repos\\White Board Challenge\\White Board Challenge.csproj",
       "packagesPath": "C:\\Users\\rdsmi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rdsmi\\source\\repos\\White Board Challenge\\obj\\",
+      "outputPath": "D:\\Coding School\\repos\\White Board Challenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rdsmi\\AppData\\Roaming\\NuGet\\NuGet.Config",
